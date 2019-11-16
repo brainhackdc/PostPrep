@@ -18,3 +18,5 @@ What I'd like to do:
 5) I'd like hack partners that are willing to test this code and try to break it, so that we have an idea of its weaknesses, and what needs work. 
 
 6) Make it more flexible, so that it can better suit the needs of all users.
+
+7) Totally open to suggestions and ideas of how to make this better, and what new functionality it could have!
